@@ -7,7 +7,7 @@
 
 You should click on “**Source code**” to download the **FerretDatasets-7.6.tar.gz**
 
-![](https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure1.png)
+<img src="https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure1.png" height="100">
 
 
 **2\. Download the Ferret executables scripts package**
