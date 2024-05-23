@@ -7,14 +7,13 @@
 
 You should click on “**Source code**” to download the **FerretDatasets-7.6.tar.gz**
 
-<img src="https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure1.png" height="300">
-
+<img src="https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure1.png" height="250">
 
 **2\. Download the Ferret executables scripts package**
 
 <https://github.com/NOAA-PMEL/Ferret/releases>
 
-![](https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure2.png)
+<img src="https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure2.png" height="500">
 
 **3\. Installation**
 
@@ -34,7 +33,7 @@ $ tar xf Ferret-7.6.0-RHEL7.tar.gz -C /home/**$user**/apps/ferret/
 
 $ tar xf FerretDatasets-7.6.tar.gz -C /home/**$user**/apps/ferret/
 
-![](https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure3.png)
+<img src="https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure3.png" height="300">
 
 **Open a terminal and go to** /home/**$user**/apps/ferret/Ferret-7.6.0-RHEL7/bin/
 
@@ -51,7 +50,7 @@ $ bash Finstall
 - ferret_paths link to create? (c/s/n) \[n\] --> s
 - (1, 2, 3, q, x) --> q
 
-![](https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure4.png)
+<img src="https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure4.png" height="1400">
 
 **Open your** /home/**$user**/.bashrc **and write the following in the end:**
 
@@ -61,7 +60,7 @@ source /home/**$user**/apps/ferret/ferret_paths
 
 **Open a new terminal and ferret should be available.**
 
-![](https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure5.png)
+<img src="https://github.com/sullyandro/Ferret_NOAA_installation_on_Ubuntu22-04/blob/main/figure4.png" height="200">
 
 **You can find some missing system libraries when running ferret for the first time:**
 
